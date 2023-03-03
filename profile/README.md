@@ -1,12 +1,11 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://global.discourse-cdn.com/circleci/original/3X/4/2/4293a83f213fbe1ebdca3e17f9b208173d81ee96.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://global.discourse-cdn.com/circleci/original/3X/c/8/c8494d5309b7cf5d33210759083de33643243004.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://global.discourse-cdn.com/circleci/original/3X/c/8/c8494d5309b7cf5d33210759083de33643243004.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://global.discourse-cdn.com/circleci/original/3X/4/2/4293a83f213fbe1ebdca3e17f9b208173d81ee96.png">
   <img alt="CircleCI logo" src="https://global.discourse-cdn.com/circleci/original/3X/4/2/4293a83f213fbe1ebdca3e17f9b208173d81ee96.png">
 </picture>
 
 # Welcome to the CircleCI Public GitHub repo 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=circleci-public.github)
 Thank you for visiting our public repo. Below you will find some helpful info and links about working with CircleCI.
 
 ## 🙋‍ About the CircleCI Public repo
