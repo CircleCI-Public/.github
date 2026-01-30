@@ -13,7 +13,7 @@ CircleCI is part of the vibrant open-source community that drives innovation and
 - Community contributions grew our registry to over **1900 orbs** for easier CircleCI integration 🛠️
 - We proudly sponsor initiatives like **GameCI**, **Women Who Code**, and **Vue**, fostering diversity and growth within the tech community 🤝
 
-Are you already using CircleCI? Great! If not, check out our [Getting Started Guide](https://circleci.com/docs/2.0/first-steps/) to help you set up your first pipeline.
+Are you already using CircleCI? Great! If not, check out our [Getting Started Guide](https://circleci.com/docs/guides/getting-started/first-steps/) to help you set up your first pipeline.
 
 ### 🌿 Contributing to the ecosystem
 
