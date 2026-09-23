@@ -19,7 +19,6 @@ Are you already using CircleCI? Great! If not, check out our [Getting Started Gu
 
 We actively contribute to open-source projects and maintain our own, such as:
 
-- [CircleCI Config SDK](https://github.com/CircleCI-Public/circleci-config-sdk-ts) - A TypeScript/JavaScript library for generating CircleCI configuration YAML
 - [CircleCI Orbs](https://github.com/orgs/CircleCI-Public/repositories?q=-orb&type=public&language=&sort=name) - Reusable configurations to help you set up and maintain your CI/CD pipelines
 - [CircleCI Images](https://github.com/orgs/CircleCI-Public/repositories?q=cimg-&type=public&language=&sort=name) - Pre-built Docker images for various languages and services
 
